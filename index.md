@@ -6,6 +6,9 @@ Click on each exercise to view details and download PDFs.
 - [Activty 1](Activity-1/)
 - [Activty 2](Activity-2/)
 - [Exercise 3](Exercise-3/)
+- # Activity 3
+- Description of Activity 3
+- [Download file](activity-3.pdf)
 - [Exercise 4](Exercise-4/)
 - [Exercise 5](Exercise-5/)
 - [Exercise 6](Exercise-6/)
