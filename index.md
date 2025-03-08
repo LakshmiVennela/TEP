@@ -1,6 +1,7 @@
 # Welcome to TEP Repository
 
 This is the course repository. Click below to view exercises:
+Click on each exercise to view details and download PDFs.
 
 - [Exercise 1](Exercise-1/)
 - [Exercise 2](Exercise-2/)
@@ -12,3 +13,5 @@ This is the course repository. Click below to view exercises:
 - [Exercise 8](Exercise-8/)
 - [Exercise 9](Exercise-9/)
 - [Exercise 10](Exercise-10/)
+
+
