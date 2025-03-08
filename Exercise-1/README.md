@@ -1,2 +1,2 @@
 # Exercise 1
-- [Download PDF](Exercise-1.pdf)
+- [Download PDF](exercise-1.pdf)
