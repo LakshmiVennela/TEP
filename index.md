@@ -17,5 +17,3 @@ Click on each exercise to view details and download PDFs.
 - [Activity 11](Activity-12/)  (SERVO MOTOR)
 - [Activity 12](Activity-13/)  (Build a Smart Door System)
 - [Activity 13](Activity-14/)  (Build a Smart Irrigation System)
-
-
