@@ -8,10 +8,10 @@ Click on each exercise to view details and download PDFs.
 - [Activity 3](Activity-3/)
 - [Activity 4](Activity-4/)
 - [Activity 5](Activity-5/)
-- [Exercise 6](Exercise-6/)
-- [Exercise 7](Exercise-7/)
-- [Exercise 8](Exercise-8/)
-- [Exercise 9](Exercise-9/)
-- [Exercise 10](Exercise-10/)
+- [Activity 6](Activity-6/)
+- [Activity 7](Activity-7/)
+- [Activity 8](Activity-8/)
+- [Activity 9](Activity-9/)
+- [Activity 10](Activity-10/)
 
 
