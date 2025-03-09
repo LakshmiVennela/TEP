@@ -3,6 +3,7 @@
 This is the course repository. Click below to view exercises:
 Click on each exercise to view details and download PDFs.
 
+- [Activity 0](Activity-0/)   (REGISTER FOR PROGRAM)
 - [Activity 1](Activity-1/)   (BLINK LED)
 - [Activity 2](Activity-2/)   (SERIAL MONITOR)
 - [Activity 3](Activity-3/)   (GLOW LED WITH VARYING INTENSITIES)
