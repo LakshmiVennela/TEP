@@ -1,5 +1,4 @@
 # Activity6 
 - LETS UNDERSTAND OUR LEARNING CURVE BY ANSWERING A SMALL QUESTIONS THIS IS TO TEST OUR UNDERSTANDING AND PLAN NEXT ACTION SO PLEASE GOAHEAD WITH ANSWERING
-- # Activity 1
-- Description of Activity 1
-- [Download file](activity-6.pdf)
+- [Click here to fill out the form](https://forms.gle/docs.google.com/forms/d/e/1FAIpQLSeP3OIF98qTUOIA2LFK6kq5QOwvIU8ZIKx1HGQE4BpYBBJ19Q/viewform?usp=header)
+
